@@ -1,3 +1,5 @@
+# No longer active
+This repo has been moved to [The Traders at Michgian github](https://github.com/tradersatmichigan/DSA)
 # DSA
 C++ implementations of data structures and algorithms
 
